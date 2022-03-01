@@ -32,7 +32,7 @@
                        1:修改产品信息
 ******************************************************************************/
 #if 1 //1:国内  0:国外
-#define PRODUCT_KEY "h2mxtvjwqvsn4eke"    //开发平台创建产品后生成的16位字符产品唯一标识
+#define PRODUCT_KEY "39fko7eyn957oqh6"    //开发平台创建产品后生成的16位字符产品唯一标识
 #else
 #define PRODUCT_KEY "x6pawkkb3zq8q9fn"    //开发平台创建产品后生成的16位字符产品唯一标识
 #endif
